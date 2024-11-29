@@ -35,4 +35,8 @@ every single activity performed on your account and in a hatch is logged and sen
 
 Notifications:
 you can also use the notifications option in the menu bar to send a quick email to an editor you created a hatch for.
- 
+
+
+Conclusion:
+I am open to collaborate with organisations and individuals who would like to integrate this solution into their applications and systems
+Feel free to reach out to me on Instagram at https://www.instagram.com/ba.mise/ for questions or enquiries concerning my project.
